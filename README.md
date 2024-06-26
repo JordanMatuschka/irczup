@@ -1,0 +1,2 @@
+# irczup
+Console IRCZ uploader
